@@ -1,0 +1,6 @@
+{
+  "name": "Construction Performance Monitor",
+  "description": "A comprehensive tracking tool for worker attendance, daily site activities, and virtual stock room inventory management with automatic reorder level alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
